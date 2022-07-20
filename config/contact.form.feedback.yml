@@ -1,0 +1,14 @@
+uuid: 97337786-7ec9-498b-ba7e-193a337b99cd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - channambika.rhm@pantheon.io
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
